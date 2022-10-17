@@ -1,6 +1,8 @@
 import F from 'funcunit';
 import QUnit from 'steal-qunit';
 
+import '~/pages/order/new/new-test';
+
 // import 'place-my-order/models/test';
 
 import '~/pages/restaurant/list/list-test';
